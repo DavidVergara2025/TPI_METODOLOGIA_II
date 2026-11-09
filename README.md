@@ -3,6 +3,8 @@
 **Trabajo Práctico Integrador (TPI) — Metodología de Sistemas II**  
 **Tecnicatura Universitaria en Programación a Distancia (TUPaD) — UTN**
 
+* **Enlace al Video de Defensa y Demostración:** https://youtu.be/FuvGDmKD_vw / https://drive.google.com/file/d/1vbj4kYMbzKWdeUuBec_bMzQ2L03-RbLI/view?usp=sharing
+
 ---
 
 ## 1. Descripción del Proyecto
@@ -16,7 +18,7 @@ El objetivo central del proyecto no consiste en acumular funcionalidades nuevas,
 * **Mateo Roman Salas:** Diagnóstico de deuda técnica, aplicación de principios SOLID/Clean Code, ejecución de refactorings seguros (Etapas 3 a 5), capas de persistencia (`repositorio.py`) y casos de uso (`servicio.py`).
 * **Victor Manuel Barroeta:** Capa de presentación (`cli.py` y `main.py`), estrategia de pruebas y verificación V&V (`tests/`), auditoría de Code Review profesional, conclusiones, mejoras futuras y documentación técnica (`docs/` y `README.md`, Etapas 6 a 8).
 
-* **Enlace al Video de Defensa y Demostración:**
+
 ---
 
 ## 2. Funcionalidades del Sistema
